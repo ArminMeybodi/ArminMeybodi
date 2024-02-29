@@ -35,3 +35,5 @@ Web developer
                       href="http://www.github.com/ArminMeybodi"><img src="https://github-readme-stats.vercel.app/api?username=ArminMeybodi&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="ArminMeybodi's GitHub stats" /></a><a
                       href="http://www.github.com/ArminMeybodi"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=ArminMeybodi&stroke=14b8a6&background=181824&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a><a href="https://github.com/ArminMeybodi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArminMeybodi&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+                  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ArminMeybodi=anuraghazra&show_icons=true&theme=radical)
